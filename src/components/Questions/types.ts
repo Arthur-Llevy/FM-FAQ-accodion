@@ -3,5 +3,5 @@ type QuestionsProps = {
 	answer: string;
 };
 
-export { QuestionsProps };
+export type { QuestionsProps };
 
